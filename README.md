@@ -9,15 +9,6 @@ Ubuntu 24.04 (Noble) — Plain Text Setup Guide
 |      8 GB RAM     |
 |      50GB SSD     |
 
-## Get a Server (Powered by GoldVPS)
-
-Need a reliable VPS for this node?  
-**GoldVPS** offers SSD NVMe servers optimized for Docker.
-
-- ✅ Quick deployment on Ubuntu 24.04
-- ✅ Stable bandwidth
-- ✅ NVMe SSD
-
 
 ## 0) Prepare Wallet, Tokens, and Guardian NFTs (in your browser)
 1. Open https://testnet.mawari.net/mint and connect your wallet. Switch to Mawari Network TestNet.
